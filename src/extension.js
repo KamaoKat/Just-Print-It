@@ -37,9 +37,9 @@ function activate(context) {
         } else if (languageId == 'java') {
             snippet = new vscode.SnippetString("System.out.println(\"${1}\");")
         } else if (languageId == 'javascript') {
-            snippet = new vscode.SnippetString("Console.log(\"${1}\");")
+            snippet = new vscode.SnippetString("console.log(\"${1}\");")
         } else if (languageId == 'javascriptreact') {
-            snippet = new vscode.SnippetString("Console.log(\"${1}\");")
+            snippet = new vscode.SnippetString("console.log(\"${1}\");")
         } else if (languageId == 'julia') {
             snippet = new vscode.SnippetString("println(\"${1}\")")
         } else if (languageId == 'lua') {
@@ -49,8 +49,6 @@ function activate(context) {
         } else if (languageId == 'objective-cpp') {
             snippet = new vscode.SnippetString("NSLog(@\"${1}\");")
         } else if (languageId == 'perl') {
-            snippet = new vscode.SnippetString("print \"${1}\";")
-        } else if (languageId == 'perl6') {
             snippet = new vscode.SnippetString("print \"${1}\";")
         } else if (languageId == 'php') {
             snippet = new vscode.SnippetString("echo \"${1}\";")
@@ -69,10 +67,10 @@ function activate(context) {
         } else if (languageId == 'swift') {
             snippet = new vscode.SnippetString("print(\"${1}\")")
         } else if (languageId == 'typescript') {
-            snippet = new vscode.SnippetString("Console.log(\"${1}\");")
+            snippet = new vscode.SnippetString("console.log(\"${1}\");")
         } else if (languageId == 'typescriptreact') {
-            snippet = new vscode.SnippetString("Console.log(\"${1}\");")
-        } else if (languageId == 'vbs') {
+            snippet = new vscode.SnippetString("console.log(\"${1}\");")
+        } else if (languageId == 'vbscript') {
             snippet = new vscode.SnippetString("Msgbox(\"${1}\",${2},\"${3}\")")
         } else if (languageId == 'vb') {
             snippet = new vscode.SnippetString("Console.WriteLine(\"${1}\")")

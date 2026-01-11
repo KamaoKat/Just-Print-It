@@ -4,15 +4,15 @@
 
 [![TrendingDaily](https://vsmarketplacebadges.dev/trending-daily/xuangeaha.just-print-it.svg?&colorB=blue)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-print-it) [![TrendingWeekly](https://vsmarketplacebadges.dev/trending-weekly/xuangeaha.just-print-it.svg?&colorB=blue)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-print-it) [![TrendingMonthly](https://vsmarketplacebadges.dev/trending-monthly/xuangeaha.just-print-it.svg?&colorB=blue)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.just-print-it)
 
-Print a sentence easily in your Python, Java, C, C++, PHP, C#, JavaScript, JavaScript JSX, TypeScript, TypeScript JSX, R, Go, Rust, Swift, Ruby, Objective-C, Objective-C++, Lua, Julia, Dart, Groovy, Visual Basic, CoffeeScript, VBScript, F#, Batch, Powershell, Perl, Perl 6, ShellScript, Clojure or Haskell files.
+Print a sentence easily in your Python, Java, C, C++, PHP, C#, JavaScript, JavaScript JSX, TypeScript, TypeScript JSX, R, Go, Rust, Swift, Ruby, Objective-C, Objective-C++, Lua, Julia, Dart, Groovy, Visual Basic, CoffeeScript, VBScript, F#, Batch, Powershell, Perl, ShellScript, Clojure or Haskell files.
 
-在你的Python, Java, C, C++, PHP, C#, JavaScript, JavaScript JSX, TypeScript, TypeScript JSX, R, Go, Rust, Swift, Ruby, Objective-C, Objective-C++, Lua, Julia, Dart, Groovy, Visual Basic, CoffeeScript, VBScript, F#, Batch, Powershell, Perl, Perl 6, Haskell, ShellScript, Clojure或Haskell文件中轻松地输出一个语句。
+在你的Python, Java, C, C++, PHP, C#, JavaScript, JavaScript JSX, TypeScript, TypeScript JSX, R, Go, Rust, Swift, Ruby, Objective-C, Objective-C++, Lua, Julia, Dart, Groovy, Visual Basic, CoffeeScript, VBScript, F#, Batch, Powershell, Perl, Haskell, ShellScript, Clojure或Haskell文件中轻松地输出一个语句。
 
-**Homepage/主页**: [`https://xuangeaha.github.io/`](https://xuangeaha.github.io/)
+**Homepage/主页**: [`https://www.xuangeaha.xyz/`](https://www.xuangeaha.xyz/)
 
-**Repository/仓库**: [`https://github.com/Xuangeaha/just-print-it`](https://github.com/Xuangeaha/just-print-it)
+**Repository/仓库**: [`https://github.com/KamaoKat/just-print-it`](https://github.com/KamaoKat/just-print-it)
 
-**Issues/问题**: [`https://github.com/Xuangeaha/just-print-it/issues`](https://github.com/Xuangeaha/just-print-it/issues)
+**Issues/问题**: [`https://github.com/KamaoKat/just-print-it/issues`](https://github.com/KamaoKat/just-print-it/issues)
 
 **Changelog/更新日志**: [`https://marketplace.visualstudio.com/items/XuangeAha.just-print-it/changelog`](https://marketplace.visualstudio.com/items/XuangeAha.just-print-it/changelog)
 
@@ -40,7 +40,7 @@ Print a sentence easily in your Python, Java, C, C++, PHP, C#, JavaScript, JavaS
 
 # Language Supports 语言支持
 
-**Python, Java, C, C++, PHP, C#, JavaScript, JavaScript JSX, TypeScript, TypeScript JSX, R, Go, Rust, Swift, Ruby, Objective-C, Objective-C++, Lua, Julia, Dart, Groovy, Visual Basic, CoffeeScript, VBScript, F#, Batch, Powershell, Perl, Perl 6, ShellScript, Clojure, Haskell**
+**Python, Java, C, C++, PHP, C#, JavaScript, JavaScript JSX, TypeScript, TypeScript JSX, R, Go, Rust, Swift, Ruby, Objective-C, Objective-C++, Lua, Julia, Dart, Groovy, Visual Basic, CoffeeScript, VBScript, F#, Batch, Powershell, Perl, ShellScript, Clojure, Haskell**
 
 ## Python
 
@@ -81,25 +81,25 @@ Console.WriteLine("{}");
 ## JavaScript
 
 ```javascript
-Console.log("{}");
+console.log("{}");
 ```
 
 ## JavaScript JSX
 
 ```javascript
-Console.log("{}");
+console.log("{}");
 ```
 
 ## TypeScript
 
 ```typescript
-Console.log("{}");
+console.log("{}");
 ```
 
 ## TypeScript JSX
 
 ```typescript
-Console.log("{}");
+console.log("{}");
 ```
 
 ## R
@@ -205,12 +205,6 @@ Write-Output ""
 ```
 
 ## Perl
-
-```perl
-print "{}";
-```
-
-## Perl 6
 
 ```perl
 print "{}";

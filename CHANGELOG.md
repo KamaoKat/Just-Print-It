@@ -4,6 +4,10 @@ All notable changes to the "divider" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 2026.1.0 2026-01-11
+
+Update author infromation and fix some typos.
+
 ## 1.1.2 2024-09-13
 
 Add language supports for `Haskell`.
