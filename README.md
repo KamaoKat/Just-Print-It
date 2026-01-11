@@ -20,7 +20,7 @@ Print a sentence easily in your Python, Java, C, C++, PHP, C#, JavaScript, JavaS
 
 **Download/下载**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.just-print-it`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.just-print-it)
 
-**Copyright (c) 2023 XuangeAha(轩哥啊哈OvO)**
+**Copyright (c) 2023-2026 KamaoKat(卡猫kat,XuangeAha(轩哥啊哈OvO))**
 
 # How To Use 使用方法
 

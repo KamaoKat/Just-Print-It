@@ -4,6 +4,10 @@ All notable changes to the "divider" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 2026.1.2 2026-01-11
+
+Update license.
+
 ## 2026.1.1 2026-01-11
 
 Fix some typos.
